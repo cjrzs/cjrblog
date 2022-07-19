@@ -2,6 +2,7 @@
 title: AcWing 240. 食物链（超有趣的并查集题目）
 math: true
 date: 2022-05-20
+comment: true
 tags:
 - AcWing
 - 并查集

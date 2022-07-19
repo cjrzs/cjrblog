@@ -1,4 +1,4 @@
-alternate: The kitten to eat Python
+alternate: The Cat to eat Python
 
 # Assets
 statics: //cdn.jsdelivr.net/gh/cjrzs/KittenToEatPython@latest/
@@ -16,7 +16,7 @@ menu:
     archives: /archives/ || list-alt
     categories: /categories/ || th
     tags: /tags/ || tags
-  friends: /friends/ || heart
+#  friends: /friends/ || heart
 
 font:
   enable: true
@@ -59,14 +59,14 @@ font:
     external: true
     family: Inconsolata
 
-social:
-  github: https://github.com/yourname || github || "#191717"
+#social:
+#  github: https://github.com/yourname || github || "#191717"
   #google: https://plus.google.com/yourname || google
-  twitter: https://twitter.com/yourname || twitter || "#00aff0"
-  zhihu: https://www.zhihu.com/people/yourname || zhihu || "#1e88e5"
-  music: https://music.163.com/#/user/home?id=yourid || cloud-music || "#e60026"
-  weibo: https://weibo.com/yourname || weibo || "#ea716e"
-  about: https://about.me/yourname || address-card || "#3b5998"
+#  twitter: https://twitter.com/yourname || twitter || "#00aff0"
+#  zhihu: https://www.zhihu.com/people/yourname || zhihu || "#1e88e5"
+#  music: https://music.163.com/#/user/home?id=yourid || cloud-music || "#e60026"
+#  weibo: https://weibo.com/yourname || weibo || "#ea716e"
+#  about: https://about.me/yourname || address-card || "#3b5998"
   #email: mailto:yourname@mail.com || envelope || "#55acd5"
   #facebook: https://www.facebook.com/yourname || facebook
   #stackoverflow: https://stackoverflow.com/yourname || stack-overflow
@@ -180,4 +180,13 @@ auto_scroll: true # 自动定位
 loader: # 加载动画
     start: true
     switch: false
+
+# 页尾全站统计
+footer:
+  since: 2010
+  count: true
+
+# 文章界面统计
+post:
+  count: true
 
