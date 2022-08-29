@@ -8,7 +8,7 @@ tags:
 - 博弈论
 categories:
 - 算法
-- 搜索与图论
+- 动态规划
 ---
 
 # [LeetCode 913. 猫和老鼠](https://leetcode.cn/problems/cat-and-mouse/)

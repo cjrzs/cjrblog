@@ -4,7 +4,7 @@ math: true
 date: 2022-02-11
 comment: true
 tags:
-- AcWing
+- AcWing算法基础课
 - 计数型动态规划
 categories:
 - 算法

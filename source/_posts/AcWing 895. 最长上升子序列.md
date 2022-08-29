@@ -4,7 +4,7 @@ math: true
 date: 2022-01-22
 comment: true
 tags:
-- AcWing
+- AcWing算法基础课
 - 经典必会
 - 基础模板题
 - 最长上升子序列

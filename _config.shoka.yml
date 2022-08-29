@@ -16,7 +16,8 @@ menu:
     archives: /archives/ || list-alt
     categories: /categories/ || th
     tags: /tags/ || tags
-#  friends: /friends/ || heart
+  about: /about/ || user
+  friends: /friends/ || heart
 
 font:
   enable: true

@@ -4,25 +4,15 @@ math: true
 date: 2022-07-25
 comment: true
 tags:
+- 经典必会
 - BFS
 - 数组模拟队列
 - Flood Fill
-- AcWing
+- AcWing算法提高课
 - LeetCode
 categories:
 - 算法
-- 搜索与图论
-valine:
-  appId: TsHNizG5g9yTU8EUAa1EIkH5-gzGzoHsz #Your_appId
-  appKey: KSmBGGzCyE4Pnop6qF4aD39B #Your_appkey
-  placeholder: ヽ(○´∀`)ﾉ♪ # Comment box placeholder
-  pageSize: 10 # Pagination size
-  lang: zh-CN
-  tagMember:
-    master:
-      - deea5a8d259d17182a53be1772e4c182
-    friend:
-      - deea5a8d259d17182a53be1772e4c182
+- 搜索
 ---
 # 前置知识
 ##  数组模拟队列
@@ -263,7 +253,7 @@ int main() {
 ![](/assets/813dba98-99a7-4f26-963c-547c8627e0ad.png)
 
 ## Code
-```CPP
+```cpp
 #include <iostream>
 #include <cstring>
 #include <algorithm>

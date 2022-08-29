@@ -3,7 +3,7 @@ title: AcWing 898. 数字三角形
 date: 2022-01-08
 comment: true
 tags:
-- AcWing
+- AcWing算法基础课
 - 经典必会
 - 基础模板题
 - 数字三角形

@@ -4,7 +4,7 @@ math: true
 date: 2022-01-28
 comment: true
 tags:
-- AcWing
+- AcWing算法基础课
 - 状态压缩
 categories:
 - 算法
